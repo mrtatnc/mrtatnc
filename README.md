@@ -1,6 +1,6 @@
 # Hi there, I'm MrtAtnc! 👋
 
-### 💼 Software Engineer,BACKEND,FRONTEND
+### 💼 Software DEV,BACKEND,FRONTEND
 İzmir, Türkiye
 
 ---
