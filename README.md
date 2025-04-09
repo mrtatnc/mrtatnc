@@ -51,8 +51,8 @@ Driven by my curiosity for the software world and a constant desire to learn, I 
 - Cloud-Native Development: Mastering best practices for building scalable apps on cloud platforms.
 
 ### 📈 Stats & Badges
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrtatnctr&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtatnctr&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrtatnc&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtatnc&layout=compact&theme=radical)
 
 
 
